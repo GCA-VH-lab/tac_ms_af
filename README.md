@@ -5,7 +5,7 @@ Alphafold predictions and scoring used in "Mechanism of phage sensing and aborti
 #### Fig. 3
 HigA_HigB_4HigC ranked_0.pdb
 
-![HigBAC Fig]((https://raw.githubusercontent.com/GCA-VH-lab/tac_ms_af/main/Figs/3.png))
+![HigBAC Fig](https://raw.githubusercontent.com/GCA-VH-lab/tac_ms_af/main/Figs/3.png)
 
 #### Fig. 4
 GpVN_4HigC ranked_0.pdb
