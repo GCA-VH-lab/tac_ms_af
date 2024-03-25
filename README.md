@@ -14,6 +14,8 @@ GpVN_4HigC ranked_0.pdb
 
 #### Fig. S5
 HigA_HigB_4HigC ranked_0.pdb - ranked_4.pdb \
-GpVN_4HigC ranked_0.pdb - ranked_4.pdb
+GpVN_4HigC ranked_0.pdb - ranked_4.pdb \
+CmdA_4HigC ranked_0.pdb - ranked_4.pdb \
+CmdA_4CmdC ranked_0.pdb - ranked_4.pdb
 
 ![Supplementary Fig](https://raw.githubusercontent.com/GCA-VH-lab/tac_ms_af/main/Figs/S5.png)
